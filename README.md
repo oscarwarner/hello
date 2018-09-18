@@ -1,6 +1,2 @@
-# hello
-gs;lmgrsm
-hfdzh
-hfdhd
-gfdh
-nfd
+# What's the difference? - commit, clone, push and pull
+## Oscar Warner
